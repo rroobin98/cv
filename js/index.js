@@ -1,6 +1,5 @@
 
 // ----- Toggle Menu ----- //
-
 var navLinks = document.getElementById("navLinks")
 
 function showMenu(){

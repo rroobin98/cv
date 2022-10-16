@@ -55,9 +55,6 @@ li.current {
     padding: 5%;
 }
 
-
-
-
 .nav-links ul li:hover::after{
     width: 100%;
 }
